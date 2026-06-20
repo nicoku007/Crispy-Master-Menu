@@ -23,7 +23,7 @@ Master Server and Locar Search: the possibility of viewing the Chocolate Doom ma
 
  INSTRUCTIONS:                                                                 
   
- 1: All you have to do is put Crispy-Master-Menu.exe in the same directory where you have chocolate-doom.exe. 
+ 1: All you have to do is put Crispy-Master-Menu.exe in the same directory where you have crispy-doom.exe. 
  
  2: You need the Master Levels wads, Put the Master Levels wads inside the folder called "master-wads", the folder is included in the zip file.
 
